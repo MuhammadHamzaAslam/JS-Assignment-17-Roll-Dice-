@@ -1,0 +1,28 @@
+button {
+   border: none;
+   background-color: aquamarine;
+   color: black;
+   height: 30px;
+   width: 100px;
+   text-align: center;
+   font-family: sans-serif;
+   font-weight: bolder;
+   border-radius: 15px;
+   margin-top: 10px !important;
+}
+h1{
+  text-align: center;
+  font-family: sans-serif;
+}
+img {
+  height: 300px;
+  width: 350px;
+  outline: none !important;
+  border: none;
+}
+div button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
